@@ -1,5 +1,20 @@
 List of certifications : 
 
+DevOps Certifications:
+
+Category:                                   Certifications:
+Container Orchestration	                    CKA, CKAD & CKS
+Infrastructure as Code	                    Terraform Certification
+Cloud Computing	                          AWS Certifications
+DevSecOps	                                Hashicorp Vault Certification
+Service Mesh	                          Istio Certified Associate (ICA)
+Linux	                                      LFCS
+CI/CD	                                      Jenkins Certification
+Monitoring & Observability	              Prometheus Certification (PCA)
+GitOps	                                GitOps With Argo
+Version Control	                          Git Skillcred
+Programming	                                PCEP™ – Certified Entry-Level Python Programmer
+
 #############       AWS 12 Certification:   #####################
 
 AWS Certified Cloud Practitioner (CLF-C01) - Done
